@@ -1,0 +1,1 @@
+include ':app', ':shekelj-core-0.14.3-12.1', ':jewtrumj'
